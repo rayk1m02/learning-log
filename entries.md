@@ -7,3 +7,7 @@
 # 2026-08-19
 
 - dbt and SnowFlake set up, working on dbt models
+
+# 2026-08-20
+
+- learn dbt concepts on models, modularity, the ref Macro, naming conventions (src, stg, int, fct, dim), and dbt cmds
