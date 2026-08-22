@@ -18,4 +18,5 @@
 
 # 2026-08-22
 
-- learn dbt Generic and Singular tests
+- learn dbt Generic and Singular tests, use dbt AI for data test generation
+- test sources for data integrity, test models for transformation integrity
