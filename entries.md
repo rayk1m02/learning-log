@@ -11,3 +11,7 @@
 # 2026-08-20
 
 - learn dbt concepts on models, modularity, the ref Macro, naming conventions (src, stg, int, fct, dim), and dbt cmds
+
+# 2026-08-21
+
+- learn dbt Understanding Sources and Data Testing (unique, not_null, accepted_values, relationships)
