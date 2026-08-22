@@ -15,3 +15,7 @@
 # 2026-08-21
 
 - learn dbt Understanding Sources and Data Testing (unique, not_null, accepted_values, relationships)
+
+# 2026-08-22
+
+- learn dbt Generic and Singular tests
