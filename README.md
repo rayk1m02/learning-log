@@ -1,3 +1,3 @@
 # Learning Log
 
-A daily log of what I worked on and learned (outside of projects).
+A daily log of what I worked on and learned (outside of project commits).
