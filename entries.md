@@ -17,8 +17,11 @@
 - learn dbt Understanding Sources and Data Testing (unique, not_null, accepted_values, relationships)
 
 # 2026-08-22
-
 - learn dbt Generic and Singular tests, use dbt AI for data test generation
 - test sources for data integrity, test models for transformation integrity
 - Finish documentation and deployment sections
 - Finished dbt Fundamentals (dbt Studio) course
+
+# 2026-08-23
+
+- start data engineering market analysis project to build in dbt and gain insight
