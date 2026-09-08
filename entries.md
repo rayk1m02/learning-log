@@ -20,3 +20,7 @@
 
 # 2026-08-23
 - start data engineering market analysis project to build in dbt and gain insight
+
+# 2026-09-07
+- finish de-market-analysis project, push to github
+- learn AWS Core Services: basics of AWS IAM, S3, and VPC
