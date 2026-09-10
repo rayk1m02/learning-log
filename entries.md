@@ -24,3 +24,6 @@
 # 2026-09-07
 - finish de-market-analysis project, push to github
 - learn AWS Core Services: basics of AWS IAM, S3, and VPC
+
+# 2026-09-09
+- setting up AWS Redshift, learning about setting policies through root user / IAM user
