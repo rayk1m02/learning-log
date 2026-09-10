@@ -27,3 +27,4 @@
 
 # 2026-09-09
 - setting up AWS Redshift, learning about setting policies through root user / IAM user
+- connecting de-market-analysis project to redshift
