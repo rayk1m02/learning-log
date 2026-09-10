@@ -27,4 +27,4 @@
 
 # 2026-09-09
 - setting up AWS Redshift, learning about setting policies through root user / IAM user
-- migrated de-market-analysis to AWS: S3 → IAM roles → Redshift Serverless → dbt (new `redshift` target alongside local DuckDB).
+- migrated de-market-analysis to AWS: S3, IAM roles, Redshift Serverless, dbt (new `redshift` target alongside local DuckDB).
