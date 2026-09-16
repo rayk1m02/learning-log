@@ -34,3 +34,6 @@
 
 # 2026-09-11
 - set up local Airflow via Docker Compose (WSL2, Docker Desktop). Make sure to use UTF-8/ASCII for AIRFLOW_UID in .env
+
+# 2026-09-15
+- researching ideas for capstone project
