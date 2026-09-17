@@ -37,3 +37,7 @@
 
 # 2026-09-15
 - researching ideas for capstone project
+
+# 2026-09-16
+- decided on a project analyzing the US Federal Spending
+- deciding the agency scope, award type scope, and other angles this project will take
