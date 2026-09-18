@@ -41,3 +41,6 @@
 # 2026-09-16
 - decided on a project analyzing the US Federal Spending
 - deciding the agency scope, award type scope, and other angles this project will take
+
+# 2026-09-17
+- write out data plan, at least 2 questions per category
