@@ -44,3 +44,7 @@
 
 # 2026-09-17
 - write out data plan, at least 2 questions per category
+
+# 2026-09-18
+- so far have 19 core quetions across 13 categories for our project to answer. We have an additional 13 questions in the backlog
+- pull and review 050 contract/IDV sample data (bulk archive file)
