@@ -48,3 +48,6 @@
 # 2026-09-18
 - so far have 19 core quetions across 13 categories for our project to answer. We have an additional 13 questions in the backlog
 - pull and review 050 contract/IDV sample data (bulk archive file)
+
+# 2026-09-20
+- cleaning and categorizing the sample data by associating columns with respective fact and dimension model.
