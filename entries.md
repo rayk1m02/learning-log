@@ -51,3 +51,4 @@
 
 # 2026-09-20
 - cleaning and categorizing the sample data by associating columns with respective fact and dimension model.
+- exploring usa spend api end points, decided on using download generation endpoint instead of row-level JSON as it caps at 10,000 records per query.
