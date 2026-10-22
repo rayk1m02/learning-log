@@ -56,3 +56,6 @@
 # 2026-10-06
 - currently in the extraction/s3 phase of national-defense-spend project
 - running into issue potentially related to office code and federal account changes due to DATA Act and other earlier year changes.
+
+# 2026-10-22
+- grouping data plan questions into summary tables for the final phase of the project: PowerBI
