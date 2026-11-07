@@ -51,11 +51,14 @@
 
 # 2026-09-20
 - cleaning and categorizing the sample data by associating columns with respective fact and dimension model.
-- exploring usa spend api end points, decided on using download generation endpoint instead of row-level JSON as it caps at 10,000 records per query.
+- exploring usa spend api end points, decided on using download generation endpoint instead of row-level JSON as it caps at 10,000 records per query
 
 # 2026-10-06
 - currently in the extraction/s3 phase of national-defense-spend project
-- running into issue potentially related to office code and federal account changes due to DATA Act and other earlier year changes.
+- running into issue potentially related to office code and federal account changes due to DATA Act and other earlier year changes
 
 # 2026-10-22
 - grouping data plan questions into summary tables for the final phase of the project: PowerBI
+
+# 2026-11-07
+- Finish national defense spending project and final review
