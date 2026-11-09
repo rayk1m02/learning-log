@@ -61,4 +61,7 @@
 - grouping data plan questions into summary tables for the final phase of the project: PowerBI
 
 # 2026-11-07
-- Finish national defense spending project and final review
+- finish national defense spending project and final review
+
+# 2026-11-08
+- mock interview on project
