@@ -65,3 +65,6 @@
 
 # 2026-11-08
 - mock interview on project
+
+# 2026-11-09
+- review mock interview answers
