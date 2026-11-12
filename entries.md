@@ -68,3 +68,6 @@
 
 # 2026-11-09
 - review mock interview answers
+
+# 2026-11-11
+- define target titles and research
